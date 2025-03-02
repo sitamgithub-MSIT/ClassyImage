@@ -1,0 +1,8 @@
+gradio
+torch
+torchvision
+git+https://github.com/huggingface/transformers@main
+sentencepiece
+pillow
+protobuf
+accelerate
